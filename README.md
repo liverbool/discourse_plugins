@@ -1,4 +1,4 @@
-discourse_plugins
+Discourse Plugins
 =================
 
-Discourse plugins develop
+See [Wiki](https://github.com/liverbool/discourse_plugins/wiki)
